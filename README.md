@@ -5,13 +5,13 @@ Un analisis de la compra de casas y alquileres de casas en las ciudades de Madri
 En este proyecto se ha recopilado la información de compra y alquiler de viviendas en las ciudades de Madrid, Sevilla y Algeciras.  Con la intención de realizar un análisis de que vivienda y sus características tiene una mayor capacidad de retorno. Además, se puede observar un evolutivo del coste de compra y alquiler de la vivienda en estas tres ciudades.
 
 ## 2.	Estructura del repositorio
-- :fa-folder: **Alquiler:** Con los excel descargados y el acumulado en bruto de alquiler por carpetas de ciudades
-- :fa-folder: **Compras:** Con los excel descargados y el acumulado en bruto de compras por carpetas de ciudades
-- :fa-folder: **Evolutivo:** Con los excel descargados y el acumulado en bruto de la evolución del coste (compra y alquiler) por ciudades.
-- :fa-file-excel-o: **Acumulado compra:** Se recoge por ciudad los datos en bruto antes de la Query.
-- :fa-file-excel-o:  **Acumulado nuevo: alquiler:** Documentos con la tablas de datos limpios para analizar.
-- :fa-bar-chart: **Analisis comparativo: ** Documento de excel donde se acumulan todos los datos ya listos para Analizar y los dashboard. 
-- :fa-file-excel-o:  **Datos limpios compra:** Documento con datos ampliados de compras para añadir al análisis.
+- **Alquiler:** Con los excel descargados y el acumulado en bruto de alquiler por carpetas de ciudades
+- **Compras:** Con los excel descargados y el acumulado en bruto de compras por carpetas de ciudades
+- **Evolutivo:** Con los excel descargados y el acumulado en bruto de la evolución del coste (compra y alquiler) por ciudades.
+- **Acumulado compra:** Se recoge por ciudad los datos en bruto antes de la Query.
+- **Acumulado nuevo: alquiler:** Documentos con la tablas de datos limpios para analizar.
+- **Analisis comparativo:** Documento de excel donde se acumulan todos los datos ya listos para Analizar y los dashboard. 
+- **Datos limpios compra:** Documento con datos ampliados de compras para añadir al análisis.
 ## 3.	Instalaciones y requisitos:
 - Excel
 - Query
