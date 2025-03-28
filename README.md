@@ -97,5 +97,6 @@ _(Aquí puedes incluir los hallazgos principales del análisis)_
 - Explorar nuevas metodologías para automatizar el proceso.
 
 ## **8. Contribuciones**
-
-Si deseas contribuir a este proyecto, puedes enviar sugerencias o mejoras a través de [incluir método de contacto o repositorio].
+Si deseas contribuir a este proyecto, puedes enviar sugerencias a través de:
+- **LinkedIn:** [www.linkedin.com/in/jacobo-pérez-ferreira-0937905b](www.linkedin.com/in/jacobo-pérez-ferreira-0937905b)
+- **Email:** jacoboferreira91@gmail.com
