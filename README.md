@@ -95,7 +95,7 @@ Se ha llevado un análisis de los precios de compra y alquiler de viviendas en l
 
 Las cifras mostradas entre paréntesis son el número de viviendas publicitadas en Idealista a fecha de 08/04/2025. La intención a futuro es ampliar las zonas y profundizar por distritos de interés.
 
-## Tabla 1 – Tiempo de recuperación (años) Piso-Habitaciones
+### Tabla 1 – Tiempo de recuperación (años) Piso-Habitaciones
 
 | Piso Habitaciones | Madrid | Sevilla | Algeciras |
 |-------------------|--------|---------|-----------|
@@ -106,14 +106,14 @@ Las cifras mostradas entre paréntesis son el número de viviendas publicitadas 
 | 5                 | 23     | NA      | 22        |
 | 6                 | 46     | NA      | NA        |
 
-## Tabla 2 – Tiempo de recuperación (años) Piso-Exterior-Interior
+### Tabla 2 – Tiempo de recuperación (años) Piso-Exterior-Interior
 
 | Piso     | Madrid | Sevilla | Algeciras |
 |----------|--------|---------|-----------|
 | Exterior | 46     | 22      | 17        |
 | Interior | 37     | 21      | 11        |
 
-## Tabla 3 – Tiempo de recuperación (años) Piso-Garaje
+### Tabla 3 – Tiempo de recuperación (años) Piso-Garaje
 
 | Piso       | Madrid | Sevilla | Algeciras |
 |------------|--------|---------|-----------|
@@ -121,14 +121,14 @@ Las cifras mostradas entre paréntesis son el número de viviendas publicitadas 
 | Sin Garaje| 50     | 23      | 18        |
 | Pago       | 40     | 20      | 19        |
 
-## Tabla 4 – Tiempo de recuperación (años) Piso-Ascensor
+### Tabla 4 – Tiempo de recuperación (años) Piso-Ascensor
 
 | Piso         | Madrid | Sevilla | Algeciras |
 |--------------|--------|---------|-----------|
 | Ascensor     | 47     | 22      | 17        |
 | Sin ascensor | 27     | 20      | 7         |
 
-## Tabla 5 – Evolución del coste en alquiler desde 2020
+### Tabla 5 – Evolución del coste en alquiler desde 2020
 
 | Año  | Madrid | Sevilla | Cádiz |
 |------|--------|---------|-------|
@@ -139,7 +139,7 @@ Las cifras mostradas entre paréntesis son el número de viviendas publicitadas 
 | 2024 | 19%    | 11%     | 20%   |
 | 2025 | 25%    | 16%     | 23%   |
 
-## Tabla 6 – Evolución del coste en compra desde 2020
+### Tabla 6 – Evolución del coste en compra desde 2020
 
 | Año  | Madrid | Sevilla | Cádiz |
 |------|--------|---------|-------|
@@ -150,7 +150,7 @@ Las cifras mostradas entre paréntesis son el número de viviendas publicitadas 
 | 2024 | 22%    | 11%     | 19%   |
 | 2025 | 31%    | 12%     | 23%   |
 
-## Tabla 7 – Evolución del coste en alquiler desde 2015
+### Tabla 7 – Evolución del coste en alquiler desde 2015
 
 | Año  | Madrid | Sevilla | Cádiz |
 |------|--------|---------|-------|
@@ -166,7 +166,7 @@ Las cifras mostradas entre paréntesis son el número de viviendas publicitadas 
 | 2024 | 42%    | 36%     | 37%   |
 | 2025 | 46%    | 40%     | 40%   |
 
-## Tabla 8 – Evolución del coste en compra desde 2015
+### Tabla 8 – Evolución del coste en compra desde 2015
 
 | Año  | Madrid | Sevilla | Cádiz |
 |------|--------|---------|-------|
